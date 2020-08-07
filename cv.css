@@ -1,0 +1,122 @@
+h1 
+{
+     color: red;
+
+     text-shadow: 2px 2px 4px lightblue;
+     
+     border-radius: 20px / 10px;
+ 
+     box-shadow: 6px 6px 0px black;
+     
+     border: 3px bla solid;
+ 
+      background-color:  rgb(255, 253, 253);
+ 
+     font-size: 4em;
+ 
+     text-align: center;
+
+     opacity: 0.3;
+
+    font-family: 'Yesterdaydream';
+    
+
+}
+
+ 
+
+body
+
+{ 
+
+   background-image: url("sévé/Guts.jpg");
+
+}
+
+
+
+ 
+
+@font-face {
+
+      font-family:'YesterdayDream';
+      src: url('YesterdayDream-Script.otf');
+
+}
+
+
+p, ul, li
+
+{
+   color: red;
+
+   font-size: 18px;
+}
+
+html,body
+{
+   margin: 0;
+   height: 100%;
+}
+
+header
+{
+   margin-left: 150px;
+   text-align: justify;
+   justify-content: flex-start;
+}
+
+ 
+ 
+
+.exp 
+{
+   width: 25%;
+   margin-left: 50%;
+   overflow: auto;
+   padding: left 100px;
+   color: blueviolet;
+    
+}
+
+
+
+.comp 
+
+{
+   align-items: center;
+  color: blueviolet;
+  margin-left: 50%;
+
+}
+
+
+.form
+{
+   color: blueviolet;
+   margin-left: 50%;
+   align-items: center;
+}
+
+.guts
+{
+   text-align: right;
+}
+
+
+.bardebar
+{
+   position: absolute;
+   float: left;
+   vertical-align: top;
+   border: 3px solid black;
+   height: 950PX;
+   width: 147PX;
+   top: 0px;
+   left: 0px;
+   border-radius: 10PX;
+   background-color: white;
+   box-shadow: 6px 6px 0px black;
+   opacity: 0.3 ;
+
+}  
