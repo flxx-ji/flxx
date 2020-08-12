@@ -100,20 +100,4 @@ html,body
 
 }  
 
-@media all and (max-width:1024px)
-
-{
-       section 
-       {
-         display: block;
-         width: auto;
-       }
-
-       .bardebar
-       {
-          display: none;
-       }
-
-
-}
-
+ 
